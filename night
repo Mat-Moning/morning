@@ -13,6 +13,11 @@
     <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" />
     <url>http://www.unifi_en.com.my</url>
   </channel>
+   <channel id="4CHN">
+    <display-name lang="en">Radio-Lagu Terbaik</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" />
+    <url>http://www.unifi_en.com.my</url>
+  </channel>
   <programme start="20221228000000 +0000" stop="20231124003000 +0000" channel="INFOKU">
     <title lang="en">Info Token Anda</title>
     <desc lang="en">Sila check tarikh token anda expired di sini.(n)</desc>
@@ -24,5 +29,9 @@
   <programme start="20221128003500 +0000" stop="20231124010000 +0000" channel="3CHN">
     <title lang="en">Rancangan Menarik</title>
     <desc lang="en">Movie Menarik khas untuk anda.(n)</desc>
+  </programme>
+   <programme start="20221228000000 +0000" stop="20231124003000 +0000" channel="4CHN">
+    <title lang="en">Lagu Terbaik</title>
+    <desc lang="en">Radio Generasi Terkini.(n)</desc>
   </programme>
 </tv>
